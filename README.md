@@ -27,7 +27,7 @@ Crie um programa que solicite ao usuário uma senha e verifique se ela está cor
 
 ### Missão 6: Reforçando a Segurança e a Contagem do Sistema 💾
 O vírus está comprometendo o sistema de segurança e a contagem de registros! Para restaurar o funcionamento correto, você precisa reforçar as verificações e garantir que os dados sejam processados corretamente.
-  Exiba os números de 1 a 10 usando um loop while.  
+Exiba os números de 1 a 10 usando um loop while.  
 
 ### Missão 7: Organizando a Lista📋
 Os números estão misturados e precisam ser organizados! 
